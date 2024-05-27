@@ -1,0 +1,1 @@
+I started with the convolutional and pooling layers used in the example in the lecture. It acheived 97% accuracy. I then added another convolution and pooling layer. Now acheiveing 98% accuracy. Finally I doubled the number of densely connected Neural Network layers to 256 and added a 0.5 dropout. The final accuracy was also 98%, but with 0.07 loss instead of 0.08.
